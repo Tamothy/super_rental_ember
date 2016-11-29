@@ -18,7 +18,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone https://github.com/Flores120/super_rental_ember` this repository
+* `git clone https://github.com/Tamothy/super_rental_ember` this repository
 * `cd super_rental_ember`
 * `npm install`
 * `bower install`
